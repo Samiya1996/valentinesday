@@ -2,7 +2,7 @@
   "homepage": "https://Samiya1996.github.io/valentinesday",
   "name": "from-your-cheap-gf",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
