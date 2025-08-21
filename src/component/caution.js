@@ -4,8 +4,6 @@ DialogContent} from "@mui/material";
 import { ImHeart } from 'react-icons/im';
 import {ImMusic} from 'react-icons/im'
 import { useNavigate } from "react-router-dom"
-
-import {makeStyles} from "@mui/material";
 import simpson from "./images/simpson.gif"
 import stare from  "./images/stare.gif"
 

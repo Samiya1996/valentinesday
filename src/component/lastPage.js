@@ -3,7 +3,6 @@ import {Box, Paper, Grid, Typography, Button, Dialog, DialogContent, DialogActio
 import cry2 from "./images/cry2.jpg"
 
 
-
 const GiftPage = () =>{
 
     const [dialogOpen,setDialogOpen] = useState(false)
